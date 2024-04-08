@@ -1,2 +1,2 @@
-# health-check
+# test-health-check
 GitHub Health Check App status repo
